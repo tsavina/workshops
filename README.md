@@ -22,5 +22,5 @@ pip install -r requirements.txt
 1. Run Jupyter Lab:
 ```shell
 cd notebook
-python -m jupyterlab
+python -m jupyter lab
 ```
