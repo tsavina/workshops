@@ -1,4 +1,4 @@
-# OpenVINO™ Deep Learning Workbench workshops
+# OpenVINO™ Deep Learning Workbench: Discover Deep Learning Basics and Write Your First AI Application
 
 ## How to run the notebook
 
@@ -17,4 +17,10 @@ source .venv/bin/activate
 1. Install dependencies:
 ```bash
 pip install -r requirements.txt
+```
+
+1. Run Jupyter Lab:
+```shell
+cd workshops/cv
+python -m jupyter lab
 ```
