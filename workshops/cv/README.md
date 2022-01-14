@@ -1,26 +1,13 @@
 # OpenVINO™ Deep Learning Workbench: Discover Deep Learning Basics and Write Your First AI Application
 
-## How to run the notebook
+## How to run the workshop
 
-1. Clone the repository:
-```shell
-git clone git@github.com:dl-wb-experiments/workshops.git
-cd workshops
-```
-
-1. Create and activate a virtual environment:
-```shell
-python3 -m virtualenv .venv
-source .venv/bin/activate
-```
-
-1. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-1. Run Jupyter Lab:
+1. Go to the workshop directory:
 ```shell
 cd workshops/cv
+```
+
+2. Run Jupyter Lab:
+```shell
 python -m jupyter lab
 ```
