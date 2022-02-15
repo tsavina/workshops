@@ -3,7 +3,7 @@
 ## Workshops:
 
 1. [Computer Vision: Creating an application for detecting face masks using OpenVINO™](./workshops/2022_opentalksai_cv)
-2.[Natural Language Processing: Creating an application for automatic detection of toxic comments using transformers and OpenVINO™](./workshops/2022_opentalksai_nlp)
+2. [Natural Language Processing: Creating an application for automatic detection of toxic comments using transformers and OpenVINO™](./workshops/2022_opentalksai_nlp)
 
 ## How to run the notebook
 
